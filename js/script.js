@@ -22,7 +22,7 @@ function enterClicked () {
   }
   //if statement when user enter invalid min
   else if (counter > max){
-    message = "Please a Min that is Less that the Max"
+    message = "Please enter a Min that is Less than the Max"
   }
   else {
   //while statement for the number that will be displayed
